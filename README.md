@@ -1,4 +1,4 @@
-# Jade · Interactive Web Demo Template
+# Hsuan · Interactive Web Demo Template
 
 A minimal, no-build HTML/CSS/JS template you can deploy **for free** on GitHub Pages (or Netlify/Vercel).
 
