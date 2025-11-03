@@ -1,4 +1,4 @@
-# Hsuan · Interactive Web Demo Template
+# Hsuan ·Hsuan in Tech
 
 A minimal, no-build HTML/CSS/JS template you can deploy **for free** on GitHub Pages (or Netlify/Vercel).
 
